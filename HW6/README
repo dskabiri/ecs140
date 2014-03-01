@@ -1,0 +1,31 @@
+*** fill in the following;
+*** repeat it for each group member;
+*** list group members alphabetically by last name
+
+Name(last): Gupta
+Name(first): Yash
+Login_ID: ygupta
+
+Name(last): Kabiri
+Name(first): Daud
+Login_ID: nikedsk
+
+Name(last): Popal
+Name(first): Harris
+Login_ID: hpopal
+
+Name(last): Vo
+Name(first): Philip
+Login_ID: philip
+
+*** Give the status of your work; here's a sample.
+
+Status:
+
+part1: Works on all tests.
+part2: Works on all tests.
+part3: Works on all tests.
+part4: Doesn’t work in all cases.
+part5: Didn't attempt.
+
+Overall: Part 4 was hard and incomplete. 
